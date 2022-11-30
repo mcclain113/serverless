@@ -1,0 +1,23 @@
+{
+  "name": "serverlessfunctionexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcclain113/serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcclain113/serverless/issues"
+  },
+  "homepage": "https://github.com/mcclain113/serverless#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
